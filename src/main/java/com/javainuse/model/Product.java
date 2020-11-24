@@ -11,11 +11,7 @@ public class Product {
 
 	public void setType(String type) {
 		this.type = type;
-	}
-
-	public int getDiscount() {
-		return discount;
-	}
+	}	
 
 	public void setDiscount(int discount) {
 		this.discount = discount;
